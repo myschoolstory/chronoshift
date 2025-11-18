@@ -1,6 +1,6 @@
 # ChronoShift: UTC Timezone Converter
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/myschoolstory/chronoshift)
 
 ChronoShift is a beautifully designed, single-page web application that provides a seamless experience for converting Coordinated Universal Time (UTC) to multiple timezones simultaneously. The interface is clean and intuitive, adhering to minimalist design principles. At the top, the current UTC time is prominently displayed, updating every second. Below, users can view and manage a grid of selected timezones. Each timezone is presented in its own card, showing the full timezone name, its UTC offset, and the live-updating local time. Users can easily add new timezones from a comprehensive, searchable list and remove existing ones with a single click. The application uses smooth animations for adding and removing cards, creating a delightful and responsive user experience.
 
@@ -80,7 +80,7 @@ This project is configured for easy deployment to Cloudflare's global network.
 
 You can deploy this application to your own Cloudflare account with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/myschoolstory/chronoshift)
 
 ### Manual Deployment with Wrangler
 
