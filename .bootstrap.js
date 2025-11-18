@@ -78,7 +78,8 @@ function updateWranglerJsonc() {
 
 function runSetupCommands() {
     const commands = [
-    "bun add date-fns-tz@^3.1.3"
+    "bun add date-fns-tz@^3.1.3",
+    "bun install date-fns-tz"
 ];
     
     if (commands.length === 0) {
